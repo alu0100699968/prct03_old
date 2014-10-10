@@ -3,3 +3,5 @@
 21. El intérprete interactivo lee la línea y la toma como una entrada, mostrando los pasos
 de la ejecución, mientras que el intérprete muestra directamente el resultado
 de la ejecución de la línea.  
+
+27. Pry tiene el mismo comportamiento que el intérprete de ruby.
